@@ -1,4 +1,2 @@
 20
 mygit
-mygit2
->>>>>>> 03ffb0ab265fc5395b0707a6e6960b0f38915fe7
